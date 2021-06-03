@@ -1,0 +1,3 @@
+function mifunción (argument) {
+	// body...
+}
